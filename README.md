@@ -9,7 +9,7 @@ Here is where I tinker, code, and occasionally share my thoughts... maybe.
 - 🎨 Passionate about all things design
 
 ## Get in Touch
-- [Discord]([https://www.linkedin.com/in/simonassiri](https://discord.com/users/190932547184623616))
+- [Discord](https://discord.com/users/190932547184623616)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat!
 
